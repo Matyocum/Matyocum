@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matyocum!
-- 👀 I’m interested in data driven insigts.
+- 👀 I’m interested in data driven insights.
 - 🌱 I’m currently learning SQl.
 - 💞️ I’m looking to collaborate on Keras deep learning in R.
 - 📫 How to reach me matyocum@gmail.com!
